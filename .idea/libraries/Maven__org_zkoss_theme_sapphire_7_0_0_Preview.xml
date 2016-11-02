@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: org.zkoss.theme:sapphire:7.0.0-Preview">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/zkoss/theme/sapphire/7.0.0-Preview/sapphire-7.0.0-Preview.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/org/zkoss/theme/sapphire/7.0.0-Preview/sapphire-7.0.0-Preview-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/zkoss/theme/sapphire/7.0.0-Preview/sapphire-7.0.0-Preview-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

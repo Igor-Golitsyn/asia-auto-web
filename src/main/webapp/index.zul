@@ -1,0 +1,47 @@
+<zk>
+    <style src="/widgets/style.css"/>
+    <window id="win" border="none" apply="com.asia_auto.Model" height="100%">
+
+        <vbox sclass="detail-row" align="center" pack="center">
+            <label value="ООО &quot;АЗИЯ АВТО УСТЬ-КАМЕНОГОРСК&quot; г.Челябинск" sclass="title"/>
+        </vbox>
+
+        <hbox align="start" pack="start" height="80%">
+            <vbox id="leftTab" vflex="1" align="center" pack="center" width="350px"/>
+            <vbox id="centerTab" align="center" pack="start" vflex="1">
+                <panel id="clock" height="250px" collapsible="true" closable="true" maximizable="true"
+                       style="margin-bottom:10px">
+                    <panelchildren>
+                        <include src="/widgets/clock.zul"/>
+                    </panelchildren>
+                </panel>
+                <grid model="${win$composer.mainElementListModel}" mold="paging" pageSize="10" vflex="1">
+                    <columns>
+                        <column align="center" width="100px">
+                            <label value="Время" sclass="main-table-header"/>
+                        </column>
+                        <column align="center">
+                            <label value="Клиент" sclass="main-table-header"/>
+                        </column>
+                        <column align="center">
+                            <label value="Мастер" sclass="main-table-header"/>
+                        </column>
+                    </columns>
+                    <template name="model">
+                        <row>
+                            <label value="${each.time}" sclass="main-tabel"/>
+                            <label value="${each.client}" sclass="main-tabel"/>
+                            <label value="${each.master}" sclass="main-tabel"/>
+                        </row>
+                    </template>
+                </grid>
+            </vbox>
+            <vbox id="rightTab" vflex="1" align="center" pack="center" width="350px"/>
+        </hbox>
+
+        <vbox sclass="detail-row" align="center" pack="center">
+            <label value="СПАСИБО ЧТО ПРИЕХАЛИ ВОВРЕМЯ!" sclass="title"/>
+        </vbox>
+
+    </window>
+</zk>

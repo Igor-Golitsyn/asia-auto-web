@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: org.zkoss.chart:zkcharts:2.1.1-Eval">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/zkoss/chart/zkcharts/2.1.1-Eval/zkcharts-2.1.1-Eval.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/org/zkoss/chart/zkcharts/2.1.1-Eval/zkcharts-2.1.1-Eval-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/zkoss/chart/zkcharts/2.1.1-Eval/zkcharts-2.1.1-Eval-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
