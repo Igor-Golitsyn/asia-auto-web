@@ -8,28 +8,36 @@
         </element>
         <element id="directory" name="lib">
           <element id="library" level="project" name="Maven: xml-apis:xml-apis:1.0.b2" />
+          <element id="library" level="project" name="Maven: org.javassist:javassist:3.20.0-GA" />
           <element id="library" level="project" name="Maven: com.h2database:h2:1.4.192" />
           <element id="library" level="project" name="Maven: org.apache.velocity:velocity:1.6" />
           <element id="library" level="project" name="Maven: commons-lang:commons-lang:2.4" />
           <element id="library" level="project" name="Maven: oro:oro:2.0.8" />
-          <element id="library" level="project" name="Maven: org.zkoss.zk:zk:6.5.8.2-Eval" />
-          <element id="library" level="project" name="Maven: org.zkoss.zk:zhtml:6.5.8.2-Eval" />
-          <element id="library" level="project" name="Maven: org.zkoss.zk:zml:6.5.8.2-Eval" />
-          <element id="library" level="project" name="Maven: org.zkoss.zk:zul:6.5.8.2-Eval" />
-          <element id="library" level="project" name="Maven: org.zkoss.common:zcommon:6.5.8.2-Eval" />
+          <element id="library" level="project" name="Maven: org.zkoss.zk:zk:8.0.2.2" />
+          <element id="library" level="project" name="Maven: org.zkoss.zk:zhtml:8.0.2.2" />
+          <element id="library" level="project" name="Maven: org.zkoss:zsoup:1.8.2.5" />
+          <element id="library" level="project" name="Maven: org.zkoss.zk:zml:8.0.2.2-Eval" />
+          <element id="library" level="project" name="Maven: org.zkoss.zk:zul:8.0.2.2" />
+          <element id="library" level="project" name="Maven: org.zkoss.common:zcommon:8.0.2.2" />
           <element id="library" level="project" name="Maven: commons-fileupload:commons-fileupload:1.2.2" />
-          <element id="library" level="project" name="Maven: org.beanshell:bsh:2.0b4" />
-          <element id="library" level="project" name="Maven: org.zkoss.common:zweb:6.5.8.2-Eval" />
-          <element id="library" level="project" name="Maven: org.zkoss.common:zel:6.5.8.2-Eval" />
-          <element id="library" level="project" name="Maven: org.zkoss.zk:zkbind:6.5.8.2-Eval" />
-          <element id="library" level="project" name="Maven: org.zkoss.zk:zkmax:6.5.8.2-Eval" />
-          <element id="library" level="project" name="Maven: org.zkoss.zk:zkplus:6.5.8.2-Eval" />
-          <element id="library" level="project" name="Maven: org.zkoss.zk:zkex:6.5.8.2-Eval" />
+          <element id="library" level="project" name="Maven: org.apache-extras.beanshell:bsh:2.0b6" />
+          <element id="library" level="project" name="Maven: org.slf4j:slf4j-api:1.7.5" />
+          <element id="library" level="project" name="Maven: org.slf4j:slf4j-jdk14:1.7.5" />
+          <element id="library" level="project" name="Maven: org.zkoss.common:zweb:8.0.2.2" />
+          <element id="library" level="project" name="Maven: commons-codec:commons-codec:1.8" />
+          <element id="library" level="project" name="Maven: org.zkoss.common:zel:8.0.2.2" />
+          <element id="library" level="project" name="Maven: org.zkoss.zk:zkbind:8.0.2.2" />
+          <element id="library" level="project" name="Maven: org.zkoss.zk:zkmax:8.0.2.2-Eval" />
+          <element id="library" level="project" name="Maven: com.google.code.gson:gson:2.3.1" />
+          <element id="library" level="project" name="Maven: com.fasterxml.jackson.core:jackson-databind:2.5.1" />
+          <element id="library" level="project" name="Maven: com.fasterxml.jackson.core:jackson-annotations:2.5.0" />
+          <element id="library" level="project" name="Maven: com.fasterxml.jackson.core:jackson-core:2.5.1" />
+          <element id="library" level="project" name="Maven: org.zkoss.zk:zkplus:8.0.2.2" />
+          <element id="library" level="project" name="Maven: org.zkoss.zk:zkex:8.0.2.2-Eval" />
           <element id="library" level="project" name="Maven: org.jfree:jfreechart:1.0.14" />
           <element id="library" level="project" name="Maven: org.jfree:jcommon:1.0.17" />
           <element id="library" level="project" name="Maven: org.zkoss.chart:zkcharts:2.1.1-Eval" />
           <element id="library" level="project" name="Maven: org.zkoss.graphics:graphics:0.8.0" />
-          <element id="library" level="project" name="Maven: commons-codec:commons-codec:1.7" />
           <element id="library" level="project" name="Maven: com.phloc:phloc-css:3.4.0" />
           <element id="library" level="project" name="Maven: com.phloc:phloc-commons:4.0.1" />
           <element id="library" level="project" name="Maven: com.google.code.findbugs:jsr305:2.0.1" />
@@ -57,7 +65,6 @@
           <element id="library" level="project" name="Maven: commons-collections:commons-collections:3.2.1" />
           <element id="library" level="project" name="Maven: log4j:log4j:1.2.16" />
           <element id="library" level="project" name="Maven: org.slf4j:slf4j-simple:1.6.4" />
-          <element id="library" level="project" name="Maven: org.slf4j:slf4j-api:1.6.4" />
           <element id="library" level="project" name="Maven: rome:rome:1.0" />
           <element id="library" level="project" name="Maven: jdom:jdom:1.0" />
           <element id="library" level="project" name="Maven: net.sf.jasperreports:jasperreports:4.0.1" />

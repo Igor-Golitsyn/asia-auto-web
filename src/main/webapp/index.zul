@@ -1,6 +1,6 @@
 <zk>
     <style src="/widgets/style.css"/>
-    <window id="win" border="none" apply="com.asia_auto.Model" height="100%">
+    <window id="win" border="none" apply="com.asia_auto.Model" height="100%" >
 
         <vbox sclass="detail-row" align="center" pack="center">
             <label value="ООО &quot;АЗИЯ АВТО УСТЬ-КАМЕНОГОРСК&quot; г.Челябинск" sclass="title"/>
@@ -8,6 +8,7 @@
 
         <hbox align="start" pack="start" height="80%">
             <vbox id="leftTab" vflex="1" align="center" pack="center" width="350px"/>
+
             <vbox id="centerTab" align="center" pack="start" vflex="1">
                 <panel id="clock" height="250px" collapsible="true" closable="true" maximizable="true"
                        style="margin-bottom:10px">
@@ -36,6 +37,7 @@
                     </template>
                 </grid>
             </vbox>
+
             <vbox id="rightTab" vflex="1" align="center" pack="center" width="350px"/>
         </hbox>
 
@@ -44,4 +46,9 @@
         </vbox>
 
     </window>
+    <script>
+        setTimeout(function(){
+        location.reload();
+        }, 10*60*1000);
+    </script>
 </zk>

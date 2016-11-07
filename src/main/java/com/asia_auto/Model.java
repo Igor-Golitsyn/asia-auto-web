@@ -81,7 +81,9 @@ public class Model extends SelectorComposer<Component> {
     private void setMasters() throws IOException {
         logger.log(Level.INFO, "setMasters");
         boolean left = true;
+        int i=0;
         for (MasterElement master : masters) {
+            if (i++==4)continue;
             Image image = new Image();
             ImageTemp imageTemp = ImageLoader.fromBytes(master.getFoto());
             imageTemp = imageTemp.getResizedToSquare(300, 0);
