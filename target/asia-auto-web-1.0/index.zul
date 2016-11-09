@@ -1,12 +1,12 @@
 <zk>
     <style src="/widgets/style.css"/>
-    <window id="win" border="none" apply="com.asia_auto.Model" height="100%" >
+    <window id="win" border="none" apply="com.asia_auto.Model" vflex="1">
 
-        <vbox sclass="detail-row" align="center" pack="center">
+        <vbox sclass="detail-row" align="center" pack="center" height="10%">
             <label value="ООО &quot;АЗИЯ АВТО УСТЬ-КАМЕНОГОРСК&quot; г.Челябинск" sclass="title"/>
         </vbox>
 
-        <hbox align="start" pack="start" height="80%">
+        <hbox align="start" pack="start" height="90%">
             <vbox id="leftTab" vflex="1" align="center" pack="center" width="350px"/>
 
             <vbox id="centerTab" align="center" pack="start" vflex="1">
@@ -41,11 +41,11 @@
             <vbox id="rightTab" vflex="1" align="center" pack="center" width="350px"/>
         </hbox>
 
-        <vbox sclass="detail-row" align="center" pack="center">
-            <label value="СПАСИБО ЧТО ПРИЕХАЛИ ВОВРЕМЯ!" sclass="title"/>
-        </vbox>
 
     </window>
+    <vbox sclass="detail-row" align="center" pack="center" height="10%">
+        <label value="СПАСИБО ЧТО ПРИЕХАЛИ ВОВРЕМЯ!" sclass="title"/>
+    </vbox>
     <script>
         setTimeout(function(){
         location.reload();
