@@ -85,7 +85,7 @@ public class Model extends SelectorComposer<Component> {
         boolean left = true;
         int i=0;
         for (MasterElement master : masters) {
-            if (i++==4)continue;
+            if (i++>3)continue;
             Image image = new Image();
             ImageTemp imageTemp = ImageLoader.fromBytes(master.getFoto());
             imageTemp = imageTemp.getResizedToSquare(300, 0);
