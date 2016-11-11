@@ -8,11 +8,19 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e783d9eb-4f6a-431f-8331-f46798ba27eb" name="Default" comment="">
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/dataSources/6b21d54a-83ba-4084-a83f-8833e0c3f066.xml" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/asia-auto-web-1.0.war" afterPath="$PROJECT_DIR$/target/asia-auto-web-1.0.war" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/asia-auto-web-1.0/WEB-INF/classes/com/asia_auto/Model.class" afterPath="$PROJECT_DIR$/target/asia-auto-web-1.0/WEB-INF/classes/com/asia_auto/Model.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/asia-auto-web-1.0/WEB-INF/classes/com/asia_auto/data/dao/ElementEntityDao$SingletonHelper.class" afterPath="$PROJECT_DIR$/target/asia-auto-web-1.0/WEB-INF/classes/com/asia_auto/data/dao/ElementEntityDao$SingletonHelper.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/asia-auto-web-1.0/WEB-INF/classes/com/asia_auto/data/dao/ElementEntityDao.class" afterPath="$PROJECT_DIR$/target/asia-auto-web-1.0/WEB-INF/classes/com/asia_auto/data/dao/ElementEntityDao.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/asia_auto/Model.class" afterPath="$PROJECT_DIR$/target/classes/com/asia_auto/Model.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/dataSources.local.xml" afterPath="$PROJECT_DIR$/.idea/dataSources.local.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/asia_auto/data/dao/ElementEntityDao$SingletonHelper.class" afterPath="$PROJECT_DIR$/target/classes/com/asia_auto/data/dao/ElementEntityDao$SingletonHelper.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/asia_auto/data/dao/ElementEntityDao.class" afterPath="$PROJECT_DIR$/target/classes/com/asia_auto/data/dao/ElementEntityDao.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/asia_auto/Model.java" afterPath="$PROJECT_DIR$/src/main/java/com/asia_auto/Model.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/asia_auto/data/dao/ElementEntityDao.java" afterPath="$PROJECT_DIR$/src/main/java/com/asia_auto/data/dao/ElementEntityDao.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/webapp/index.zul" afterPath="$PROJECT_DIR$/src/main/webapp/index.zul" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/asia-auto-web-1.0/index.zul" afterPath="$PROJECT_DIR$/target/asia-auto-web-1.0/index.zul" />
     </list>
     <ignored path="asia_auto_web.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -46,19 +54,47 @@
       <file leaf-file-name="index.zul" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/webapp/index.zul">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="504">
-              <caret line="24" column="78" selection-start-line="24" selection-start-column="78" selection-end-line="24" selection-end-column="78" />
+            <state relative-caret-position="42">
+              <caret line="2" column="72" selection-start-line="2" selection-start-column="72" selection-end-line="2" selection-end-column="72" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Model.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="persistence.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/resources/META-INF/persistence.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="399">
+              <caret line="19" column="0" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
+              <folding>
+                <marker date="1478858017711" expanded="true" signature="98:1300" ph="..." />
+                <marker date="1478858017711" expanded="true" signature="397:1285" ph="..." />
+                <marker date="1478858017711" expanded="true" signature="742:1261" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ElementEntityDao.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/asia_auto/data/dao/ElementEntityDao.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="377">
+              <caret line="79" column="19" selection-start-line="79" selection-start-column="19" selection-end-line="79" selection-end-column="19" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Model.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/asia_auto/Model.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="798">
-              <caret line="87" column="21" selection-start-line="87" selection-start-column="21" selection-end-line="87" selection-end-column="21" />
-              <folding />
+            <state relative-caret-position="272">
+              <caret line="74" column="0" selection-start-line="74" selection-start-column="0" selection-end-line="74" selection-end-column="0" />
+              <folding>
+                <element signature="imports" expanded="false" />
+                <element signature="e#1216#1217#0" expanded="false" />
+                <element signature="e#1259#1260#0" expanded="false" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -114,16 +150,16 @@
         <option value="$PROJECT_DIR$/src/main/java/com/asia_auto/data/entity/ClientElement.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/asia_auto/data/entity/MasterElement.java" />
         <option value="$PROJECT_DIR$/src/main/webapp/widgets/clock.zul" />
-        <option value="$PROJECT_DIR$/src/main/java/com/asia_auto/data/dao/ElementEntityDao.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/asia_auto/data/components/imageUtil/ImageType.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/asia_auto/data/components/imageUtil/Image.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/asia_auto/data/components/imageUtil/ImageLoader.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/asia_auto/data/components/imageUtil/ImageTemp.java" />
         <option value="$PROJECT_DIR$/src/main/webapp/widgets/style.css" />
         <option value="$PROJECT_DIR$/pom.xml" />
-        <option value="$PROJECT_DIR$/src/main/resources/META-INF/persistence.xml" />
-        <option value="$PROJECT_DIR$/src/main/webapp/index.zul" />
         <option value="$PROJECT_DIR$/src/main/java/com/asia_auto/Model.java" />
+        <option value="$PROJECT_DIR$/src/main/webapp/index.zul" />
+        <option value="$PROJECT_DIR$/src/main/resources/META-INF/persistence.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/com/asia_auto/data/dao/ElementEntityDao.java" />
       </list>
     </option>
   </component>
@@ -186,6 +222,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scratches" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -334,11 +372,43 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="asia_auto_web" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="asia_auto_web" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="asia_auto" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="data" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="dao" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
-      <pane id="Scratches" />
       <pane id="Scope" />
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -347,10 +417,11 @@
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../asia_auto_hibernate" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="com.intellij.database.dataSource.DataSourceTemplate" value="MySQL&#10;H2" />
+    <property name="js-jscs-nodeInterpreter" value="C:\Program Files\nodejs\node.exe" />
   </component>
   <component name="RecentsManager">
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
@@ -983,7 +1054,9 @@
       <workItem from="1478519861305" duration="395000" />
       <workItem from="1478520633363" duration="36000" />
       <workItem from="1478668526407" duration="3904000" />
-      <workItem from="1478748977691" duration="1689000" />
+      <workItem from="1478748977691" duration="2294000" />
+      <workItem from="1478838380802" duration="664000" />
+      <workItem from="1478851687566" duration="5389000" />
     </task>
     <task id="LOCAL-00001" summary="fin not dynamic grid">
       <created>1478058605935</created>
@@ -1020,11 +1093,18 @@
       <option name="project" value="LOCAL" />
       <updated>1478750724085</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="MySQL">
+      <created>1478750734712</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1478750734712</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="97142000" />
+    <option name="totallyTimeSpent" value="103800000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -1039,7 +1119,7 @@
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.1444563" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.15938166" sideWeight="0.5663322" order="6" side_tool="true" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.15938166" sideWeight="0.60535115" order="6" side_tool="true" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -1053,7 +1133,7 @@
       <window_info id="CheckStyle" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Persistence" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.15938166" sideWeight="0.43366778" order="1" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.15938166" sideWeight="0.39464882" order="1" side_tool="false" content_ui="combo" />
       <window_info id="Web" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -1109,14 +1189,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="252">
-          <caret line="12" column="0" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/webapp/index.zul">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="315">
@@ -1129,7 +1201,11 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
+          <folding>
+            <element signature="imports" expanded="false" />
+            <element signature="e#1216#1217#0" expanded="false" />
+            <element signature="e#1259#1260#0" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -1169,7 +1245,11 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
+          <folding>
+            <element signature="imports" expanded="false" />
+            <element signature="e#1216#1217#0" expanded="false" />
+            <element signature="e#1259#1260#0" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -1209,7 +1289,11 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
+          <folding>
+            <element signature="imports" expanded="false" />
+            <element signature="e#1216#1217#0" expanded="false" />
+            <element signature="e#1259#1260#0" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -1384,13 +1468,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/asia_auto/data/dao/ElementEntityDao.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="462">
-          <caret line="33" column="38" selection-start-line="33" selection-start-column="38" selection-end-line="33" selection-end-column="38" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/webapp/widgets/clock.zul">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-1072">
@@ -1399,18 +1476,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="dbDummy://dbtable:/91e53004/6b21d54a-83ba-4084-a83f-8833e0c3f066/111.PUBLIC.MAINELEMENT">
-      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
-        <state>
-          <filtering enabled="true" />
-        </state>
-      </provider>
-      <provider editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="dbDummy://dbtable:/91e53004/6b21d54a-83ba-4084-a83f-8833e0c3f066/111.PUBLIC.MAINELEMENT" />
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1323">
@@ -1419,10 +1485,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/META-INF/persistence.xml">
+    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/bdd9d896-3b01-4242-96aa-ed8378584837/console.sql">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="441">
-          <caret line="21" column="14" selection-start-line="21" selection-start-column="14" selection-end-line="21" selection-end-column="14" />
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="945">
+          <caret line="45" column="42" selection-start-line="45" selection-start-column="42" selection-end-line="45" selection-end-column="42" />
           <folding />
         </state>
       </provider>
@@ -1435,26 +1508,42 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/bdd9d896-3b01-4242-96aa-ed8378584837/console.sql">
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/index.zul">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        <state relative-caret-position="42">
+          <caret line="2" column="72" selection-start-line="2" selection-start-column="72" selection-end-line="2" selection-end-column="72" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/webapp/index.zul">
+    <entry file="file://$PROJECT_DIR$/src/main/resources/META-INF/persistence.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="504">
-          <caret line="24" column="78" selection-start-line="24" selection-start-column="78" selection-end-line="24" selection-end-column="78" />
-          <folding />
+        <state relative-caret-position="399">
+          <caret line="19" column="0" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
+          <folding>
+            <marker date="1478858017711" expanded="true" signature="98:1300" ph="..." />
+            <marker date="1478858017711" expanded="true" signature="397:1285" ph="..." />
+            <marker date="1478858017711" expanded="true" signature="742:1261" ph="..." />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/asia_auto/Model.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="798">
-          <caret line="87" column="21" selection-start-line="87" selection-start-column="21" selection-end-line="87" selection-end-column="21" />
+        <state relative-caret-position="272">
+          <caret line="74" column="0" selection-start-line="74" selection-start-column="0" selection-end-line="74" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="false" />
+            <element signature="e#1216#1217#0" expanded="false" />
+            <element signature="e#1259#1260#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/asia_auto/data/dao/ElementEntityDao.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="377">
+          <caret line="79" column="19" selection-start-line="79" selection-start-column="19" selection-end-line="79" selection-end-column="19" />
           <folding />
         </state>
       </provider>
@@ -1538,7 +1627,7 @@
       </state>
       <state key="ProjectLibrariesConfigurable.UI">
         <settings>
-          <last-edited>Maven: batik:batik-awt-util:1.6-1</last-edited>
+          <last-edited>Maven: bouncycastle:bcmail-jdk14:138</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>

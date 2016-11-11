@@ -24,8 +24,6 @@ import java.util.logging.Logger;
 public class Model extends SelectorComposer<Component> {
     Logger logger = Logger.getLogger(Model.class.getName());
     private static final long serialVersionUID = 1L;
-    private int height;
-    private int wight;
 
     private ElementEntityDao elementEntityDao = ElementEntityDao.getInstance();
 
