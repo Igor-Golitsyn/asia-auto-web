@@ -24,8 +24,7 @@ import java.util.logging.Logger;
 public class Model extends SelectorComposer<Component> {
     Logger logger = Logger.getLogger(Model.class.getName());
     private static final long serialVersionUID = 1L;
-
-    private ElementEntityDao elementEntityDao = ElementEntityDao.getInstance();
+    private ElementEntityDao elementEntityDao = new ElementEntityDao();
 
     @Wire
     private Window win;
@@ -81,9 +80,9 @@ public class Model extends SelectorComposer<Component> {
     private void setMasters() throws IOException {
         logger.log(Level.INFO, "setMasters");
         boolean left = true;
-        int i=0;
+        int i = 0;
         for (MasterElement master : masters) {
-            if (i++>3)continue;
+            if (i++ > 3) continue;
             Image image = new Image();
             ImageTemp imageTemp = ImageLoader.fromBytes(master.getFoto());
             imageTemp = imageTemp.getResizedToSquare(300, 0);
