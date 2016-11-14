@@ -47,20 +47,8 @@
         <label value="СПАСИБО ЧТО ПРИЕХАЛИ ВОВРЕМЯ!" sclass="title"/>
     </vbox>
     <script>
-        startFullscreen();
-
         setTimeout(function(){
         location.reload();
-        }, 10*60*1000);
-
-        function startFullscreen(){
-        if(win.requestFullscreen) win.requestFullscreen();
-        else if(win.mozRequestFullScreen) win.mozRequestFullScreen();
-        else if(win.webkitRequestFullscreen) win.webkitRequestFullscreen();
-        else if(win.msRequestFullscreen) win.msRequestFullscreen();
-        else {
-        win.innerHTML = 'Ваш браузер не поддерживает полноэкранный режим';
-        }
-        }
+        }, 15*60*1000);
     </script>
 </zk>
