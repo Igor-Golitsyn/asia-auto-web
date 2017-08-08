@@ -9,7 +9,9 @@
       <case-sensitivity plain-identifiers="lower" quoted-identifiers="lower" />
       <secret-storage>master_key</secret-storage>
       <user-name>admin</user-name>
+      <introspection-schemas>*:111</introspection-schemas>
       <resolve-scope>111:</resolve-scope>
+      <unqualified-resolve-schemas>111:</unqualified-resolve-schemas>
     </data-source>
   </component>
 </project>
