@@ -6,12 +6,9 @@
     </artifacts-to-build>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e783d9eb-4f6a-431f-8331-f46798ba27eb" name="Default" comment=".">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/dataSources/bdd9d896-3b01-4242-96aa-ed8378584837.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/asia-auto-web-1.0/WEB-INF/lib/zkcharts-2.1.1-Eval.jar" afterPath="" />
+    <list default="true" id="e783d9eb-4f6a-431f-8331-f46798ba27eb" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/asia-auto-web-1.0.war" afterPath="$PROJECT_DIR$/target/asia-auto-web-1.0.war" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/resources/META-INF/persistence.xml" afterPath="$PROJECT_DIR$/src/main/resources/META-INF/persistence.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/asia-auto-web-1.0/META-INF/MANIFEST.MF" afterPath="$PROJECT_DIR$/target/asia-auto-web-1.0/META-INF/MANIFEST.MF" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/asia-auto-web-1.0/WEB-INF/classes/META-INF/persistence.xml" afterPath="$PROJECT_DIR$/target/asia-auto-web-1.0/WEB-INF/classes/META-INF/persistence.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/META-INF/persistence.xml" afterPath="$PROJECT_DIR$/target/classes/META-INF/persistence.xml" />
@@ -1016,14 +1013,22 @@
       <option name="project" value="LOCAL" />
       <updated>1502192803931</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary=".">
+      <created>1502194734312</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1502194734312</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="109146000" />
+    <option name="totallyTimeSpent" value="109207000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
